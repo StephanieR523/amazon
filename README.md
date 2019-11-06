@@ -1,9 +1,11 @@
 # amazon
 
-Using MySql, make database for "bamazon"
+![Alt text](https://github.com/StephanieR523/Liri/blob/master/newss.JPG)
+
+Using MySql, made database for "bamazon"
 
 
-Create a MySQL Database called bamazon.
+Created a MySQL Database called bamazon.
 
 Then create a Table inside of that database called products.
 
