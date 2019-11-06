@@ -1,6 +1,12 @@
 # amazon
+Using MySql, made database for "bamazon new"
+Created a MySQL Database called bamazon.
 
-![Alt text](https://github.com/StephanieR523/Liri/blob/master/newss.JPG)
+![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss3.PNG)
+
+![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss2.PNG)
+
+![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss1.PNG)
 
 Using MySql, made database for "bamazon"
 
