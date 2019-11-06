@@ -6,7 +6,7 @@ Created a MySQL Database called bamazon.
 
 ![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss2.PNG)
 
-![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss1.PNG)
+![Alt text](https://github.com/StephanieR523/amazon/blob/master/newss.PNG)
 
 Using MySql, made database for "bamazon"
 
